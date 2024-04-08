@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 08-04-2024
 
 ## AIM:
 
@@ -53,10 +53,11 @@
 
 
 ## Output:
+![Screenshot 2024-04-08 180014](https://github.com/DurgaV240106/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144870878/8bd74c3c-0a21-48b5-88f4-5c41c8e5dbaa)
 
 
-### Name:
-### Register Number: 
+### Name:DURGA V
+### Register Number: 212223230052
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
